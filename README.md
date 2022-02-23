@@ -3,6 +3,8 @@
 ## Description 
 This project utilizes Node Js with MySQL2, express, Sequelize.
 
+Video at https://drive.google.com/file/d/15WAI0Rrk97jsrX9nK5t4lRDWDyaHP-kZ/view
+
 ## Table of Contents 
 
 * [Installation](#installation)
